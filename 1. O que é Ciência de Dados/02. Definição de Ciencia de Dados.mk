@@ -1,0 +1,21 @@
+#Definição de Ciência de Dados
+Ciência de Dados (ou Data Science) é o termo usado para definir a extração de insights de dados que são coletados de várias fontes.
+Utilizando várias técnicas, incluindo modelagem preditiva (Machine Learing), a Ciência de dados ajuda a analisar e interpretar grandes quantidades de dados.
+Os profissionais que trabalham com Ciência de Dados são chamados Cientistas de Dados, porém muitas outras carreiras estão associadas a Data Science.
+
+Ciência de dados é o processo para extrair informçãoes valiosas a partir de dados. 
+Como estamos vivendo na era do Big Data, a ciência de dados está se tornando um campo 
+cada vez mais importante para explorar e processar grande volumes de dados, 
+com diferentes formatos, gerados a partir de várias fontes em diferentes velocidade. 
+
+É um grande disciplina em si e consiste em conjuntos de habilidades especializadas, tais como: 
+ * Estatística, 
+ * Matemática, 
+ * Programção, 
+ * Computação e conhecimento de negócios.
+ 
+Além de técnicas e teorias, como a análise preditiva, modelagem, mineração de dados e visualização de dados.
+O principal objetivo de Ciência de Dados é extrair e interpretar os dados de forma eficaz e 
+apresentá-los em uma linguagem simples para os usuários finais e tomadores de decisão.
+Assim, a Ciência de Dados visa entregar informações úteis e a 
+capacidade de converter essas informaçãos em produtos "data-driven", produtos orientados a dados.

@@ -1,0 +1,19 @@
+#Qual a relação entre ciência de dados e estatística?
+
+A estatística fornece ferramentas, técnicas e procedimentos que podem 
+ser usados em todas as etapas de projetos de Data Science
+
+Usamos estatsca em diferentes momentos dentro de um projeto de ciência de dados. 
+Além disso, alguns algoritmos de ML são baseados em fundamentos estatísticos.
+
+A estatística pode ajudar a avaliar se o sucesso de um fundo de investimentos é genuíno ou devido ao acaso, 
+pode ajudar a prever se um determinado assinante vai cancelar sua assinatura este ano 
+ou se uma reivindicação de seguro é fraudulenta.
+
+Vivemos uma era em que a ciência deve prevalecer sobre o empirismo, em que a 
+lógica deve prevalecer sobre o "achismo". 
+A Ciência de Dados utiliza os métodos estatísticos para explorar e analisar dados, 
+fazer inferências e buscar padrões em meio a incertezas, tudo isso em novas abordagens 
+e com o auxílio da Ciência da Computação.
+
+
