@@ -21,6 +21,11 @@ ___
     * [E Big Data?](/2.%20Ci%C3%AAncia%20de%20Dados%20e%20Big%20Data/06.%20E%20Big%20Data.md)
     * [Ciência de Dados e Big Data](/2.%20Ci%C3%AAncia%20de%20Dados%20e%20Big%20Data/07.%20Ci%C3%AAncia%20de%20dados%20e%20Big%20Data.md)
     * [O que é e Como Aprender Big Data Analytics](/2.%20Ci%C3%AAncia%20de%20Dados%20e%20Big%20Data/08.%20O%20que%20%C3%A9%20e%20Como%20Aprender%20Big%20Data%20Analytics.md)
-
+3. [Ciência de Dados e Estatística](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/)
+    * [Data Science x Estatística](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/01.%20Data%20Science%20X%20Estatistica.md)
+    * [Definindo a Estatística](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/02.%20Definindo%20a%20Estat%C3%ADstica.md)
+    * [As 3 Grandes Áreas da Estatística](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/03.%20As%203%20Grandes%20%C3%81reas%20da%20Estat%C3%ADstica.md)
+    * [Qual a Relação entre Data Science e Estatística](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/04.%20Qual%20Rela%C3%A7%C3%A3o%20entre%20Data%20Science%20e%20Estatistica.md)
+    * [Como Aprender Estatística para Ciência de Dados](/3.%20Ci%C3%AAncia%20de%20Dados%20e%20Estat%C3%ADstica/05.%20Como%20Aprender%20Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados.md)
 
 Esse curso é gratuito da plataforma [DSA - Data Science Academy](https://www.datascienceacademy.com.br) 
