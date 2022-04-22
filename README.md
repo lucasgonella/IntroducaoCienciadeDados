@@ -52,4 +52,6 @@ ___
     * [Exemplos de Definição do Problema de Negócio](/6.%20Ciclo%20de%20Vida%20de%20Projetos%20de%20Data%20Science/05.%20Exemplos%20de%20Defini%C3%A7%C3%A3o%20do%20Problema%20de%20Neg%C3%B3cio.md)
     * [Ciclo de Vida de Projeto de Ciência de Dados](/6.%20Ciclo%20de%20Vida%20de%20Projetos%20de%20Data%20Science/06.%20Ciclo%20de%20Vida%20de%20Projeto%20de%20Ci%C3%AAncia%20de%20dados.md)
 
+___
+
 Esse curso é gratuito da plataforma [DSA - Data Science Academy](https://www.datascienceacademy.com.br)
